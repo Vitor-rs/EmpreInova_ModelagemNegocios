@@ -5,6 +5,8 @@
 - **Samuel Odecio**
 - **Vitor Santos**
 
+
+
 ## 1. Modelagem de Negócios - Canvas
 
 O modelo de negócios Canvas é uma ferramenta visual que ilustra todas as organizacionais. Ele é composto por nove blocos pré-formatados que dão a base para a criação do modelo ou a adaptação de um já existente.
